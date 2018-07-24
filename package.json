@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adam Dueck",
   "license": "ISC",
   "dependencies": {
     "next": "^6.1.1",
